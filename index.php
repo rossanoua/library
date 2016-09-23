@@ -14,13 +14,13 @@
 <body>
 
 <div class="tg-wrap"><table class="tg" style="undefined;table-layout: fixed; width: 95%">
-        <colgroup>
-            <col style="width: 25%">
-            <col style="width: 75%">
-        </colgroup>
+<!--        <colgroup>-->
+<!--            <col style="width: 25%">-->
+<!--            <col style="width: 75%">-->
+<!--        </colgroup>-->
         <tr>
-            <th class="tg-431l">Размер файла</th>
-            <th class="tg-431l">Название книги</th>
+            <th class="tg-431l first">Размер файла</th>
+            <th class="tg-431l second">Название книги</th>
 
         </tr>
             <?php require_once 'table.php';?>
